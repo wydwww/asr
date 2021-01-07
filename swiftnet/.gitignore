@@ -1,0 +1,6 @@
+lib/cylib.c
+lib/cylib.cc
+lib/cylib.html
+lib/cylib.so
+
+*__pycache__/
